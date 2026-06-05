@@ -19,7 +19,7 @@ brain_tumor_dataset/
 
 Total images ≈ 253.
 
-🔧 Technologies & Libraries Used
+ Technologies & Libraries Used
 Image Processing
 
 OpenCV (cv2)
